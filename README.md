@@ -1,7 +1,3 @@
-Certainly! Below is a detailed README for your application.
-
----
-
 # E-Commerce Management System
 
 ## Overview
